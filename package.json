@@ -2,6 +2,9 @@
   "name": "dz-ts-lib",
   "version": "1.0.0",
   "type": "module",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "tsc --project tsconfig.build.json",
     "release": "semantic-release",
