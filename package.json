@@ -5,7 +5,7 @@
   "files": [
     "dist"
   ],
-  "main": "dist",
+  "main": "dist/index.js",
   "scripts": {
     "build": "tsc --project tsconfig.build.json",
     "release": "semantic-release",
