@@ -1,1 +1,3 @@
-export type TenantConfig = { tenant: string };
+import type { Tenant } from "./Tenant.js";
+
+export type TenantConfig = { tenant: Tenant };
