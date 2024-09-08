@@ -1,4 +1,4 @@
-name: Release
+name: release
 on:
   push:
     branches:
@@ -6,7 +6,6 @@ on:
   workflow_dispatch:
 jobs:
   release:
-    name: release
     runs-on: ubuntu-latest
     permissions:
       contents: write # to be able to publish a GitHub release
