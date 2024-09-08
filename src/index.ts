@@ -1,4 +1,4 @@
-export type { Tenant } from "./Tenant.js";
-export type { TenantConfig } from "./TenantConfig.js";
-export { beesafeConfig } from "./beesafeConfig.js";
-export { compensaConfig } from "./compensaConfig.js";
+export type { Tenant } from './Tenant';
+export type { TenantConfig } from './TenantConfig';
+export { beesafeConfig } from './beesafeConfig';
+export { compensaConfig } from './compensaConfig';

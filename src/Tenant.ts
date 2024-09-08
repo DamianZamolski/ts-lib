@@ -1,1 +1,1 @@
-export type Tenant = "beesafe" | "compensa";
+export type Tenant = 'beesafe' | 'compensa';

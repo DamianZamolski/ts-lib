@@ -1,5 +1,5 @@
-import type { TenantConfig } from "./TenantConfig.js";
+import type { TenantConfig } from './TenantConfig';
 
 export const beesafeConfig: TenantConfig = {
-  tenant: "beesafe",
+  tenant: 'beesafe',
 };

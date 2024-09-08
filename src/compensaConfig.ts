@@ -1,5 +1,5 @@
-import type { TenantConfig } from "./TenantConfig.js";
+import type { TenantConfig } from './TenantConfig';
 
 export const compensaConfig: TenantConfig = {
-  tenant: "compensa",
+  tenant: 'compensa',
 };
